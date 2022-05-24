@@ -2,7 +2,7 @@
 - 👀 I’m interested in society issues, political science and economy
 - 🌱 I’m currently learning all about Social Communication and Web Developer (fullstcak)
 - 💞️ I’m looking to collaborate on projects about how to help the society.
-- 📫 How to reach me: My e-mail: johana.trivino93@gmail.com on TW: @SoyLaContra
+- 📫 How to reach me on TW: @SoyLaContra
 
 <!---
 joannebeth93/joannebeth93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
